@@ -89,6 +89,7 @@
     - Chitinid
     - Plasmaman
     - Thaven
+    - Feroxi
   components:
     - type: RandomHumanoidAppearance
       randomizeName: false

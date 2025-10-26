@@ -78,4 +78,13 @@
       emergencyLightColor: '#EF7200'
       forceEnableEmergencyLights: true
       shuttleTime: 240
+    omicron:
+      announcement: alert-level-omicron-announcement
+      selectable: false
+      sound: Audio/Announcements/AlertLevels/code_omicron.ogg
+      disableSelection: true
+      color: '#5A4B4B'
+      emergencyLightColor: '#5A4B4B'
+      forceEnableEmergencyLights: true
+      shuttleTime: 1200
 

@@ -43,6 +43,8 @@
       path: alerts/epsilon.ogg
     - id: alertEnigma
       path: alerts/enigma.ogg
+    - id: alertOmicron
+      path: alerts/omicron.ogg
 
     # Events
     ## Wizard's Den
